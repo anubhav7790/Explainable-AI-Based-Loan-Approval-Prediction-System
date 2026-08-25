@@ -6,7 +6,7 @@ An **Explainable AI (XAI) based machine learning system** that predicts whether 
 
 The application is built using **Streamlit** and can be deployed as a web application.
 
-> Live demo: ----
+> Live demo: https://explainable-ai-based-loan-approval-prediction-system-wgemo7y2s.streamlit.app/
 
 ## 📌 Project Overview
 
