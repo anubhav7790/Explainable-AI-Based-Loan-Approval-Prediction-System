@@ -12,6 +12,9 @@ The application is built using **Streamlit** and can be deployed as a web applic
 
 Traditional loan approval systems can provide a prediction without clearly explaining why a particular decision was made.
 
+<img width="1872" height="896" alt="Screenshot 2026-08-25 144126" src="https://github.com/user-attachments/assets/83685a05-0e55-4a81-bd15-8ca63e4d8319" />
+
+
 This project addresses that problem by combining:
 
 * Machine Learning for loan approval prediction
@@ -22,10 +25,14 @@ This project addresses that problem by combining:
 
 The system allows users to enter applicant information and receive:
 
+<img width="1795" height="692" alt="Screenshot 2026-08-25 144420" src="https://github.com/user-attachments/assets/3bc28b7c-59c2-4ac3-9ee4-2b0f87fbcf05" />
+
 1. Loan approval/rejection prediction
 2. Approval probability
 3. Rejection probability
 4. Feature-level explanation of the prediction
+   <img width="1732" height="854" alt="Screenshot 2026-08-25 144445" src="https://github.com/user-attachments/assets/4236a217-bedb-4b7b-9bc8-ecf438ccb521" />
+
 
 ## 🎯 Objectives
 
